@@ -1,0 +1,30 @@
+Information form
+
+Basic Information
+- Product Name => 255 Chars long only
+- Descripton => 1000 chars long only
+- Category => list
+- Subcategory => list
+- Brand => Brand Name 255 chars long
+- Tags => (optional)
+
+Sizing and Fit
+- Available size => choose size
+- Size Chart => Image upload
+- Fit Type => Slim Fit, Regular Fit or Oversized
+
+Material and Care
+- Fabric Type => Cotton, Polyester Blend etc
+- Care Instructions => Image
+
+Design and Features
+
+Pricing and Stock
+- Price
+- Currency (Indian)
+- Stock Quantity
+
+
+Media
+- Product Images => (Front View, Back View, Side View, Close-up of fabric or design)
+- Videos => Short Clips
